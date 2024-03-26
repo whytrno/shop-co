@@ -6,5 +6,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/{id}', function () {
-    return view('welcome');
-});
+    return view('detail');
+})->name('detail');

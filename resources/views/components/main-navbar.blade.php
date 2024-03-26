@@ -1,4 +1,4 @@
-<div class="h-[95px] flex items-center">
+<div class="h-[95px] flex items-center border-b border-black/10">
     <div class="h-[95px] flex justify-between w-full items-center">
         <h1 class="text-[32px] font-extrabold text-black">SHOP.CO</h1>
         <div class="flex gap-[14px]">
